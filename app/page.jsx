@@ -40,7 +40,7 @@ export default function Home() {
         
         <p className="text-xl text-black mb-8 max-w-2xl mx-auto">
           Design moderne, tous les templates inclus, export PDF sans watermark pour seulement <span className="font-bold text-blue-600">0,78€</span>. 
-          Pas d'abonnement, juste un paiement unique par CV.
+          Pas d&apos;abonnement, juste un paiement unique par CV.
         </p>
         
         <button
